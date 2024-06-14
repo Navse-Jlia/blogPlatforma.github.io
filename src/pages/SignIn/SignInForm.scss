@@ -1,0 +1,56 @@
+.sign-in-form {
+  width: 385px;
+  height: 375px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  color: rgb(38, 38, 38);
+  background-color: white;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+
+  form {
+    margin: 0 auto;
+  }
+  h2 {
+    text-align: center;
+    display: inline;
+  }
+
+  input[type='email'],
+  input[type='password'] {
+    display: block;
+    width: 320px;
+    height: 40px;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+  button {
+    display: block;
+    margin-top: 25px;
+    width: 320px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    color: white;
+    background: rgb(24, 144, 255);
+    cursor: pointer;
+  }
+
+  a {
+    color: rgb(24, 144, 255);
+  }
+
+  .error {
+    margin-left: 30px;
+    color: red;
+    font-size: 0.8rem;
+  }
+}
