@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blogPlatforma.github.io/static/css/main.01deca3a.css",
+    "main.js": "/blogPlatforma.github.io/static/js/main.018f513a.js",
+    "static/media/icon.png": "/blogPlatforma.github.io/static/media/icon.b9f2b305e0066e3a4b0d.png",
+    "static/media/noLike.svg": "/blogPlatforma.github.io/static/media/noLike.653992d2ba00c5481f48fb0682742a46.svg",
+    "index.html": "/blogPlatforma.github.io/index.html",
+    "static/media/like.svg": "/blogPlatforma.github.io/static/media/like.c8929b23dbf7da5dbd52d963eee529b3.svg",
+    "main.01deca3a.css.map": "/blogPlatforma.github.io/static/css/main.01deca3a.css.map",
+    "main.018f513a.js.map": "/blogPlatforma.github.io/static/js/main.018f513a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01deca3a.css",
+    "static/js/main.018f513a.js"
+  ]
+}
